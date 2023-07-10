@@ -1,0 +1,10 @@
+height=167
+name="daviti"
+surname="janashia"
+city="tbilisi"
+age="13"
+print(height)
+print(name)
+print(surname)
+print(city)
+print(age)
